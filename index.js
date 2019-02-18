@@ -1,1 +1,2 @@
-const mendeleev = require('mendeleev');
+const mendMaster = require('mendeleev-master');
+mendMaster('file.txt');
